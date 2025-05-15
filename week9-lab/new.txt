@@ -1,0 +1,6 @@
+Th weather forecast for Day 4 is:
+
+The Cities Name      The Min Temperature The Max Temperature The full Desciprtion
+Sydney               14              26              Mostly sunny.       
+Brisbane             19              34              Sunny               
+Perth                8               22              Showers.            
